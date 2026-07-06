@@ -53,11 +53,11 @@ class _SwitchButtonState extends State<SwitchButton> {
       inactiveThumbColor:
           widget.inactiveThumbColor ?? theme.colorScheme.onSecondary,
       trackOutlineColor:
-          WidgetStateProperty.resolveWith<Color?>((Set<WidgetState> states) {
+          MaterialStateProperty.resolveWith<Color?>((Set<MaterialState> states) {
         return widget.outlineColor ?? Colors.black; // Use the default color.
       }),
       trackOutlineWidth:
-          WidgetStateProperty.resolveWith<double?>((Set<WidgetState> states) {
+          MaterialStateProperty.resolveWith<double?>((Set<MaterialState> states) {
         return 0.8; // Use the default width.
       }),
     );
