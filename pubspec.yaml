@@ -47,6 +47,11 @@ dependencies:
   provider: ^6.1.2
   shared_preferences: ^2.2.0
   timezone: ^0.9.4
+  url_launcher: any
+  worldtime: any
+  hive: any
+  hive_flutter: any
+
 
 
 dev_dependencies:
