@@ -51,6 +51,8 @@ dependencies:
   worldtime: any
   hive: any
   hive_flutter: any
+  flutter_secure_storage: any
+  android_alarm_manager_plus: any
 
 
 
