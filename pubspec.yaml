@@ -28,35 +28,23 @@ environment:
 # the latest version available on pub.dev. To see which dependencies have newer
 # versions available, run `flutter pub outdated`.
 dependencies:
-  dependencies:
-  cupertino_icons: ^1.0.8
-  dotted_border: ^2.1.0
   flutter:
     sdk: flutter
-  flutter_displaymode: ^0.6.0
-  flutter_dotenv: ^5.1.0
+  cupertino_icons: ^1.0.8
   flutter_map: ^7.0.2
-  flutter_svg: ^2.0.10+1
-  font_awesome_flutter: ^10.7.0
-  geocoding: ^2.0.5
-  geolocator: ^12.0.0
   http: ^1.2.2
   intl: ^0.19.0
-  loading_animation_widget: ^1.2.1
-  permission_handler: ^11.2.0
-  proj4dart: ^2.1.0
   provider: ^6.1.2
-  shared_preferences: ^2.2.0
+  shared_preferences: ^2.3.2
   timezone: ^0.9.4
-  url_launcher: any
-  worldtime: any
-  hive: any
-  hive_flutter: any
-  flutter_secure_storage: any
-  android_alarm_manager_plus: any
-  flutter_local_notifications: any
-  audioplayers: any
-
+  url_launcher: ^6.3.0
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  flutter_secure_storage: ^9.2.2
+  android_alarm_manager_plus: ^3.0.4
+  flutter_local_notifications: ^17.2.2
+  audioplayers: ^6.0.0
+ 
 
 
 dev_dependencies:
