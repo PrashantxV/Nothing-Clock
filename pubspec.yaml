@@ -48,7 +48,7 @@ dependencies:
   shared_preferences: ^2.2.3
   timezone: ^0.9.4
   url_launcher: ^6.2.6
-  worldtime: ^2.0.0
+  worldtime: ^1.4.2
   hive: ^2.2.3
   hive_flutter: ^1.1.0
   flutter_secure_storage: ^9.2.2
